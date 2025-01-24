@@ -8,6 +8,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+Wav2Lip/checkpoints/*
 build/
 develop-eggs/
 dist/
